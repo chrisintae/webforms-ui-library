@@ -1,4 +1,4 @@
-import { Card } from "@library/card";
+import { Card } from "@library/Card";
 
 export default function ComponentPage() {
   return (
